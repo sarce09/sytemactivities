@@ -16,4 +16,6 @@ This is a beginner Python project that simulates a simple system interaction.
 ```bash
 python projectsystemactivities.py
 
-AUTHOR: sarce09
+## Author
+sarce09
+
