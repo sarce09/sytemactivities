@@ -1,4 +1,4 @@
-Author: sarce09
+Author: Santiago Arce
 
 # System Activities (Python)
 
