@@ -1,3 +1,5 @@
+author: sarce09
+
 # System Activities (Python)
 
 This is a beginner Python project that simulates a simple system interaction.
@@ -15,7 +17,4 @@ This is a beginner Python project that simulates a simple system interaction.
 ## How to run
 ```bash
 python projectsystemactivities.py
-
-## Author
-sarce09
 
